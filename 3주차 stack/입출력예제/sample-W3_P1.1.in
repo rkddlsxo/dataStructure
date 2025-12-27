@@ -1,0 +1,42 @@
+38 41
+push 18
+push 5
+empty
+size
+top
+push 15
+popsum 21
+push 22
+push 1
+size
+push 19
+top
+push 20
+top
+size
+empty
+push 15
+empty
+push 6
+push 1
+popsum 1
+popsum 15
+push 29
+push 21
+push 2
+push 14
+popsum 22
+push 8
+top
+popsum 19
+popsum 24
+top
+popsum 11
+empty
+push 11
+push 20
+push 13
+top
+push 8
+popsum 15
+top

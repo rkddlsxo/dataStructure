@@ -1,0 +1,15 @@
+1
+13
+insert 10
+insert 60
+max 1
+delete 60
+insert 18
+max 2
+insert 7
+max 3
+insert 3
+insert 9
+max 2
+delete 7
+max 4 

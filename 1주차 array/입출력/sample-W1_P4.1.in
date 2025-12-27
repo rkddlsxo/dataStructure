@@ -1,0 +1,12 @@
+11 8
+print
+shift 3 5
+print
+swap 2 7
+print
+shift 2 4
+swap 1 4
+print
+shift 1 4
+shift 3 7
+print

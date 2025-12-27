@@ -1,0 +1,80 @@
+empty
+not_found
+true
+9001
+9001
+true
+true
+not_found
+not_found
+not_found
+out_of_range
+not_found
+empty
+not_found
+true
+empty
+out_of_range
+out_of_range
+8081 7878
+7878 8081
+8081 7878
+7878 8479 8081
+2
+0
+8081 8479 7878
+false
+false
+2
+false
+not_found
+7878 8479 8081 4378 4788
+out_of_range
+0
+4788 4378 8479 7878
+not_found
+7878 8479 4378 4788
+out_of_range
+7878 8479 4378 4788 5287
+7878 8479 4378 4788 5287
+false
+false
+false
+not_found
+5287 4788 3567 4378 8479 7878
+out_of_range
+false
+6
+not_found
+out_of_range
+out_of_range
+not_found
+false
+2
+7878 8479 4378 3567 7093 4788 8244 5287 6679
+out_of_range
+5
+out_of_range
+false
+false
+out_of_range
+7878 8479 4378 3567 7093 4788 8244 5287 6679
+out_of_range
+not_found
+7878 8479 4378 3567 7093 4788 8244 5287 6679
+false
+false
+not_found
+false
+6679 5287 7313 8244 4788 7093 3567 4378 8479 7878
+7878 8479 4378 3567 7093 4788 9436 8244 7313 5287 6679
+false
+5
+0
+false
+out_of_range
+out_of_range
+out_of_range
+false
+5287 7313 8244 8226 9436 4788 3567 4378 8479 7878
+7878 8479 4378 3567 4788 9436 8226 8244 7313 5287

@@ -1,0 +1,32 @@
+31
+minVertexInfo
+insertVertex 6
+insertVertex 14
+insertVertex 2
+insertVertex 15
+insertEdge 6 2
+insertEdge 15 14
+minVertexInfo
+eraseEdge 2 14
+insertEdge 15 14
+eraseVertex 14
+insertEdge 6 15
+insertEdge 15 6
+minVertexInfo
+eraseEdge 2 6
+insertVertex 27
+insertEdge 2 6
+insertEdge 27 15
+minVertexInfo
+eraseEdge 27 2
+isAdjacent 6 2
+isAdjacent 27 6
+isAdjacent 2 15
+insertVertex 12
+insertEdge 2 27
+insertVertex 9
+insertVertex 10
+eraseVertex 2
+minVertexInfo
+eraseVertex 6
+minVertexInfo

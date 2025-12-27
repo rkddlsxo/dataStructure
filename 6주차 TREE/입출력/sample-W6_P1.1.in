@@ -1,0 +1,26 @@
+25
+insert 1 2187
+insert 1 60
+min_maxChild 2187
+delete 60
+insert 1 5524
+child 5524
+min_maxChild 1
+insert 5524 5039
+parent 2187
+insert 1 8158
+insert 1 8442
+insert 2187 4972
+min_maxChild 8442
+delete 8158
+child 8442
+delete 5039
+parent 2187
+insert 8442 6579
+insert 8442 8700
+insert 10 1000
+insert 2187 8442
+parent 11
+child 12
+min_maxChild 1000
+delete 1000

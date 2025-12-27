@@ -1,0 +1,45 @@
+44
+top
+empty
+push 25
+push 25
+pop 20
+push 29
+pop 7
+pop 28
+push 21
+push 17
+push 12
+push 21
+pop 3
+pop 20
+pop 24
+push 8
+top
+push 2
+push 1
+push 23
+push 18
+push 27
+push 3
+pop 5
+pop 6
+push 2
+push 22
+push 23
+empty
+push 12
+pop 18
+push 17
+top
+push 16
+push 1
+push 29
+push 18
+pop 25
+push 14
+push 9
+pop 2
+push 22
+top
+size

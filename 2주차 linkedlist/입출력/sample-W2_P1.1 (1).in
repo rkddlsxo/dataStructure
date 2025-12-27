@@ -1,0 +1,31 @@
+30
+AfterMax 0
+Print
+Print
+Append 9128
+Sum
+Print
+AfterMax 1
+Sum
+Sum
+AfterMax 1
+Print
+Append 1427
+Delete 2
+Delete 1
+AfterMax 1
+Append 6169
+Append 5298
+Append 864
+Delete 2
+Print
+Delete 0
+AfterMax 5
+Append 5680
+Print
+Append 6561
+Append 6000
+Append 2777
+AfterMax 8
+AfterMax 8
+Print

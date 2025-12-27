@@ -1,0 +1,101 @@
+100
+print 1
+find 9818
+empty
+insert 0 9001
+print 0
+print 0
+erase 0
+empty
+empty
+find 9001
+find 9001
+find 9001
+erase 3829
+find 9001
+print 0
+find 9001
+empty
+print 1
+erase 8136
+insert 0 7878
+insert 8619 6842
+insert 1 8081
+insert 2 6675
+erase 2
+print 1
+print 0
+print 1
+insert 1 8479
+print 0
+find 7878
+find 8081
+print 1
+insert 3 4378
+insert 4 4788
+empty
+empty
+find 8081
+empty
+find 9001
+print 0
+insert 7840 9520
+erase 2
+find 4788
+print 1
+find 6675
+print 0
+insert 4 5287
+erase 4414
+print 0
+print 0
+empty
+empty
+insert 3 3567
+empty
+find 9001
+print 1
+erase 9887
+insert 6 6679
+empty
+find 7878
+find 8081
+insert 4614 4398
+insert 9952 7470
+find 8081
+empty
+insert 4 7093
+find 4788
+insert 6 8244
+print 0
+insert 5594 6063
+find 3567
+insert 9198 9166
+empty
+empty
+insert 6966 9513
+print 0
+erase 6668
+find 8081
+print 0
+empty
+empty
+find 8081
+insert 7 7313
+empty
+print 1
+insert 6 9436
+print 0
+empty
+erase 4
+find 4788
+find 6679
+empty
+insert 6693 4832
+erase 9
+erase 3615
+erase 3027
+insert 6 8226
+empty
+print 1
+print 0

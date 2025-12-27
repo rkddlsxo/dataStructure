@@ -1,0 +1,23 @@
+22
+Graph 10
+Graph 11
+InsertVertex 10 100001
+InsertVertex 10 100002
+InsertEdge 10 100001 100002
+InsertVertex 11 100001
+InsertVertex 10 100001
+InsertEdge 11 100001 100002
+InsertVertex 10 100003
+InsertEdge 10 100001 100003
+PrintAdjCount 10 100001
+PrintAdjCount 11 100001
+InsertEdge 10 100001 100002
+InsertEdge 10 100003 100004
+EraseVertex 10 100002
+InsertEdge 10 100001 100002
+InsertVertex 10 100004
+InsertVertex 10 100005
+InsertEdge 10 100004 100005
+InsertEdge 10 100005 100001
+PrintAdjMinMax 10 100004
+PrintAdjMinMax 11 100001

@@ -1,0 +1,64 @@
+63
+Graph 91
+InsertEdge 91 837869 849315
+EraseEdge 91 453669 569131
+InsertVertex 91 908607
+InsertEdge 91 423759 908607
+EraseVertex 91 908607
+InsertEdge 91 697243 262111
+InsertEdge 91 908607 379427
+InsertVertex 91 599190
+InsertEdge 91 908607 599190
+InsertEdge 91 599190 932721
+PrintAdjCount 91 599190
+PrintAdjCount 91 599190
+InsertEdge 91 908607 599190
+InsertVertex 91 368325
+InsertEdge 91 368325 599190
+InsertVertex 91 387176
+InsertVertex 91 137679
+PrintAdjMinMax 91 368325
+InsertVertex 91 860895
+InsertEdge 91 368325 137679
+PrintAdjMinMax 91 860895
+PrintAdjCount 91 908607
+InsertEdge 91 387176 860895
+PrintAdjCount 91 908607
+PrintAdjMinMax 91 137679
+PrintAdjCount 91 908607
+InsertVertex 91 188076
+InsertEdge 91 188076 137679
+PrintAdjMinMax 91 908607
+InsertEdge 91 860895 387176
+PrintAdjMinMax 91 387176
+InsertEdge 91 599190 387176
+PrintAdjMinMax 91 368325
+InsertVertex 91 601922
+InsertEdge 91 137679 599190
+PrintAdjMinMax 91 719735
+PrintAdjMinMax 91 599190
+InsertVertex 91 956843
+InsertVertex 91 889615
+PrintAdjMinMax 91 601922
+InsertVertex 91 889615
+InsertEdge 91 956843 368325
+PrintAdjMinMax 91 956843
+InsertVertex 91 681503
+InsertVertex 91 492118
+InsertEdge 91 137679 956843
+InsertEdge 91 889615 956843
+PrintAdjCount 91 188076
+InsertVertex 91 550637
+InsertEdge 91 492118 368325
+PrintAdjMinMax 91 188076
+InsertEdge 91 188076 599190
+Graph 78
+InsertVertex 78 770612
+InsertVertex 78 770612
+EraseEdge 78 424480 609353
+InsertEdge 91 889615 368325
+InsertVertex 78 770612
+InsertEdge 78 220026 403760
+InsertEdge 91 387176 889615
+InsertVertex 78 163755
+InsertEdge 78 770612 163755
